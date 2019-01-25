@@ -1,3 +1,5 @@
 # ActivityLifeCycle
 
-_Practice on Life Cycle
+[Created in 08/2018]
+
+_ Practice on Life Cycle
